@@ -42,7 +42,6 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 ![ERD.png]({{site.baseurl}}/ERD.png)
 
-<hr>
 ### Research Methods
 - Spatial Autocorrelation Analysis
   : Global Spatial Autocorrelation: Makes possible statements about the degree of clustering in the dataset
