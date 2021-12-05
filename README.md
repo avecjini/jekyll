@@ -46,6 +46,9 @@ With this new way of finding customers, a hotel became a convenient transient lo
 - Spatial Autocorrelation Analysis
 - Point Pattern Analysis
 - Proposed Workflow
+
+![workflow.png]({{site.baseurl}}/workflow.png)
+
 ### Finding
 ### Resources
 
