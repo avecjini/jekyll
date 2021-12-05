@@ -61,6 +61,9 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 
 ### Finding
+
+![]({{site.baseurl}}//hotelmap.png)
+
 ### Resources
 
 ```markdown
