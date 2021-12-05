@@ -52,6 +52,7 @@ With the growth of the internet, traffickers use online advertisements, such as 
    2. What is the nature of the distribution of points?
    3. Is there any structure in the way locations are arranged over space? That is, are events clustered? or are they dispersed?
    4. Why do events occur in those places and not in others?
+   
 
 - <strong> Proposed Workflow </strong>
 ![]({{site.baseurl}}//workflow.png)
