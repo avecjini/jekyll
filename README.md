@@ -35,6 +35,13 @@ With this new way of finding customers, a hotel became a convenient transient lo
 - ****Spatial patterns observed can guide prevention and disruption efforts
 
 ### Data
+1. Identified hotel from Federal Civil Case (PACER)
+2. Facility Dataset from Hotel.com and Google APIs
+3. Demographics & Socio-economic characteristics from U.S. Census and NUMBEO.com (Crime Index)
+
+![ERD.png]({{site.baseurl}}/ERD.png)
+
+
 ### Research Methods
 - Spatial Autocorrelation Analysis
 - Point Pattern Analysis
