@@ -23,16 +23,16 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 ### Problem Description
 
-- Sex trafficking is spatially concentrated within the urban environment
+- ****Sex trafficking is spatially concentrated within the urban environment
  : Criminological theories emphasize the physical and social environment in facilitating crime
 
   -> Research on influence of situational and social-demographic neighborhood variables is critical
 
 
-- Opportunity and social disorganization theories explain sex trafficking clusters
+- ****Opportunity and social disorganization theories explain sex trafficking clusters
  -> Identify neighborhood characteristics associated with sex trafficking activity and its’ spatial dynamics
  
-- Spatial patterns observed can guide prevention and disruption efforts
+- ****Spatial patterns observed can guide prevention and disruption efforts
 
 ### Data
 ### Research Methods
