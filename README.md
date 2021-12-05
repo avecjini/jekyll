@@ -3,6 +3,7 @@
 ### background
 Human trafficking is designated as “the recruitment, transportation, transfer, harboring, or receipt of persons” for improper purposes including forced labor and sexual exploitation using force, kidnapping, fraud or coercion (United Nations, 2019). 
 
+![bg.png]({{site.baseurl}}/bg.png)
 
 ![Image](src)
 ### Motivation
