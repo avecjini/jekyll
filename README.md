@@ -44,11 +44,15 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 ### Research Methods
 - Spatial Autocorrelation Analysis
-- Point Pattern Analysis
+  : Global Spatial Autocorrelation: Makes possible statements about the degree of clustering in the dataset
+- Point Pattern Analysis: Focuses on deviations from the global trend at much more focused levels than the entire maps
+  : Concerned with the visualization, description, statistical characterization, and modeling of point patterns, trying to understand the generating process that gives rise and explains the observed data
+   1. What does the pattern look like?
+   2. What is the nature of the distribution of points?
+   3. Is there any structure in the way locations are arranged over space? That is, are events clustered? or are they dispersed?
+   4. Why do events occur in those places and not in others?
+
 - Proposed Workflow
-
-![workflow.png]({{site.baseurl}}/workflow.png)
-
 ### Finding
 ### Resources
 
