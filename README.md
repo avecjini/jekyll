@@ -23,6 +23,9 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 ### Problem Description
 
+![htmap.png]({{site.baseurl}}/htmap.png)
+
+
 - <strong>Sex trafficking is spatially concentrated within the urban environment</strong>
  : Criminological theories emphasize the physical and social environment in facilitating crime
   -> Research on influence of situational and social-demographic neighborhood variables is critical
@@ -49,6 +52,8 @@ With this new way of finding customers, a hotel became a convenient transient lo
    2. What is the nature of the distribution of points?
    3. Is there any structure in the way locations are arranged over space? That is, are events clustered? or are they dispersed?
    4. Why do events occur in those places and not in others?
+
+![mIndex.png]({{site.baseurl}}/mIndex.png)
 
 
 - Proposed Workflow
