@@ -8,7 +8,7 @@ Human trafficking is designated as “the recruitment, transportation, transfer,
 ### Motivation
 <strong>Sex trafficking</strong> is human trafficking for the purpose of sexual exploitation, including sexual slavery, child sex tourism, commercial sexual exploitation of children, and prostitution.
 
-![usmap.png]({{site.baseurl}}/bg.png)
+![usmap.png]({{site.baseurl}}/usmap.png)
 
 1. In 2018, the Polaris survey with over a hundred selected trafficking victims, 79% of them had contact with the hotel sector while subject to sexual exploitation.
 2. According to all the U.S. federal cases from Human Trafficking Institute, over 80% of the of cases indicates that a commercial sex act took place in a hotel. 
