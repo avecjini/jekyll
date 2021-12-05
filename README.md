@@ -57,7 +57,8 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 
 - Proposed Workflow
-![]({{site.baseurl}}/workflow.png)
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
 
 
 ### Finding
