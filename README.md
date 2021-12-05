@@ -10,8 +10,17 @@ Human trafficking is designated as “the recruitment, transportation, transfer,
 
 ![usmap.png]({{site.baseurl}}/bg.png)
 
+1.In 2018, the Polaris survey with over a hundred selected trafficking victims, 79% of them had contact with the hotel sector while subject to sexual exploitation.
+2. According to all the U.S. federal cases from Human Trafficking Institute, over 80% of the of cases indicates that a commercial sex act took place in a hotel. 
+With the growth of the internet, traffickers use online advertisements, such as backpage.com or the social media, like Facebook, to solicit customers for conducting sex trafficking. 
+3. According to the cases, over 84% of the cases that traffickers used online platforms to market the victims and to arrange sex trade with their customers.
+With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
 ### Research Questions
+1. How do we find the relationship between the patterns of geographic and social boundaries of this crime automatically based on demographic and socio-economic characteristics?
+
+2. What are the significant patterns that we can use to predict and verify the boundaries we have?
+
 ### Problem Description
 ### Data
 ### Research Methods
