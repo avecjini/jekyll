@@ -8,6 +8,8 @@ Human trafficking is designated as “the recruitment, transportation, transfer,
 ### Motivation
 <strong>Sex trafficking</strong> is human trafficking for the purpose of sexual exploitation, including sexual slavery, child sex tourism, commercial sexual exploitation of children, and prostitution.
 
+![usmap.png]({{site.baseurl}}/bg.png)
+
 
 ### Research Questions
 ### Problem Description
