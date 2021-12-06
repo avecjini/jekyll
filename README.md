@@ -55,7 +55,7 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 
 ### Method
 Analytics Framework: 
-![]({{site.baseurl}}//analyframe.png)
+![AFrame.png]({{site.baseurl}}/AFrame.png)
 
 
 - Hotel Patterns
@@ -69,11 +69,9 @@ Miles between the identified hotels and the Major Highway Ramps
 ### Prelimiary Analysis
 
 - Statistic by States
-
 ![]({{site.baseurl}}//table.png)
 
 - Dependent Variables
-
 ![]({{site.baseurl}}//Dvariable.png)
 
 
