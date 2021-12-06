@@ -1,4 +1,4 @@
-## Combating Sex Trafficking: Examining the Spatial Patterns of Hotels in the U.S. Urban Areas
+## Combating Sex Trafficking: Examining the Spatial Patterns in Urban Hotels in the U.S.
 
 ![bg.png]({{site.baseurl}}/bg.png)
 
