@@ -1,11 +1,13 @@
 ## Combating Sex Trafficking: Examining the Spatial Patterns of Hotels in the U.S. Urban Areas
 
-### background
-Human trafficking is designated as “the recruitment, transportation, transfer, harboring, or receipt of persons” for improper purposes including forced labor and sexual exploitation using force, kidnapping, fraud or coercion (United Nations, 2019). 
-
 ![bg.png]({{site.baseurl}}/bg.png)
 
-### Motivation
+> ### background
+Human trafficking is designated as “the recruitment, transportation, transfer, harboring, or receipt of persons” for improper purposes including forced labor and sexual exploitation using force, kidnapping, fraud or coercion (United Nations, 2019). 
+
+![htmap.png]({{site.baseurl}}/htmap.png)
+
+> ### Motivation
 <strong>Sex trafficking</strong> is human trafficking for the purpose of sexual exploitation, including sexual slavery, child sex tourism, commercial sexual exploitation of children, and prostitution.
 
 ![usmap.png]({{site.baseurl}}/usmap.png)
@@ -16,9 +18,11 @@ With the growth of the internet, traffickers use online advertisements, such as 
 3. According to the cases, over 84% of the cases that traffickers used online platforms to market the victims and to arrange sex trade with their customers.
 With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
-![htmap.png]({{site.baseurl}}/htmap.png)
 
-### Research Questions
+> ### Research Questions
+How could we identify sex trafficking crimes and prevent them effectively in the academic field of Social and Connected & Community (S&CC)?
+
+
 1. How do we find the relationship between the patterns of geographic and social boundaries of this crime automatically based on demographic and socio-economic characteristics?
 
 2. What are the significant patterns that we can use to predict and verify the boundaries we have?
@@ -60,15 +64,7 @@ With this new way of finding customers, a hotel became a convenient transient lo
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
 
 
-https://public.tableau.com/shared/98K4P3F8F?:display_count=n&:origin=viz_share_link
 
-https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:language=zh-TW&:display_count=n&:origin=viz_share_link
-
-
-[interactive map](https://public.tableau.com/shared/SMQ93Q64Y?:display_count=n&:origin=viz_share_link)
-
-
+{% include viz1.html %}
 
 {% include viz2.html %}
-
-
