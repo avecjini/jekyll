@@ -56,10 +56,11 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 
 ### Method
 Analytics Framework: 
-%%% analyframe image
+![]({{site.baseurl}}//analyframe.png)
+
 
 > Hotel Patterns
-Ownership Status the ownership status of the hotel or motel (privately owned, part of a chain, a franchise)
+Ownership Status:the ownership status of the hotel or motel (privately owned, part of a chain, a franchise)
 Star Rating of the Hotels
 
 > Highway Patterns 
@@ -68,10 +69,11 @@ Miles between the identified hotels and the Major Highway Ramps
 ### Prelimiary Analysis
 
 Statistic by States
-%%% table image
+![]({{site.baseurl}}//table.png)
 
 Dependent Variables
-%%% DVariable image
+![]({{site.baseurl}}//Dvariable.png)
+
 
 Control Variables
 %%% ConVariable
