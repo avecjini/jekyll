@@ -98,6 +98,7 @@ Spatial Autocorrelation Analysis
 
 - [Local Spatial Autocorrelation](https://geographicdata.science/book/notebooks/07_local_autocorrelation.html?fbclid=IwAR26zjrUFassWu4N6qeIHpbisp1OsRvboh_KQhSrtK_8Jlz-iOVSbsSi5Mg):Focuses on deviations from the global trend at much more focused levels than the entire maps
 
-%% moran I
+![moranI.png]({{site.baseurl}}/moranI.png)
+
 
 The possible output is choropleth maps and maron plot, which is computed by Moran’s family Index and the other two indexes, which will also be compared.
