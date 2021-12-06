@@ -33,17 +33,17 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 
 2. What are the significant patterns that we can use to predict and verify the boundaries we have?
 
+
 ### Problem Description
 
-
-- <strong>Sex trafficking is spatially concentrated within the urban environment</strong>
+- Sex trafficking is spatially concentrated within the urban environment
  : Criminological theories emphasize the physical and social environment in facilitating crime
   -> Research on influence of situational and social-demographic neighborhood variables is critical
 
-- <strong>Opportunity and social disorganization theories explain sex trafficking clusters</strong>
+- Opportunity and social disorganization theories explain sex trafficking clusters
  -> Identify neighborhood characteristics associated with sex trafficking activity and its’ spatial dynamics
  
-- <strong>Spatial patterns observed can guide prevention and disruption efforts</strong>
+- Spatial patterns observed can guide prevention and disruption efforts
 
 ### Data
 1. Identified hotel from Federal Civil Case (PACER)
@@ -67,18 +67,22 @@ Miles between the identified hotels and the Major Highway Ramps
 
 ### Prelimiary Analysis
 
-Statistic by States
+- Statistic by States
+
 ![]({{site.baseurl}}//table.png)
 
-Dependent Variables
+- Dependent Variables
+
 ![]({{site.baseurl}}//Dvariable.png)
 
 
-Control Variables
+- Control Variables
+
 ![ConVariable.png]({{site.baseurl}}/ConVariable.png)
 
 
-Correlation Diagram
+- Correlation Diagram
+
 ![Corre.png]({{site.baseurl}}/Corre.png)
 
 
