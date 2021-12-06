@@ -46,7 +46,7 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 
 ### Data
 1. Identified hotel from Federal Civil Case (PACER)
-2. Facility Dataset from Hotel.com and Google APIs
+2. Facility Dataset from Hotels.com and Google APIs
 3. Demographics & Socio-economic characteristics from U.S. Census and NUMBEO.com (Crime Index)
 4. U.S. Primary & Secondary Roads from U.S. Census
 
