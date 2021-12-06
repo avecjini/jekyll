@@ -80,6 +80,7 @@ Control Variables
 
 
 Correlation Diagram
+
 %%% Correlation image
 
 ### Results
