@@ -55,11 +55,6 @@ With this new way of finding customers, a hotel became a convenient transient lo
 ![mIndex.png]({{site.baseurl}}/mIndex.png)
 
 
-- Proposed Workflow
-
-![workflow.png]({{site.baseurl}}//workflow.png){:height="300" width="1400"}
-
-
 ### Results
 
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
@@ -73,6 +68,10 @@ https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:
 [interactive map](https://public.tableau.com/shared/SMQ93Q64Y?:display_count=n&:origin=viz_share_link)
 
 
+<iframe src="https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:showVizHome=no&:embed=true" width="100%" height="1000" frameborder="0" scrolling="yes">
+</iframe>
+
+{% include viz2.html %}
 
 ```markdown
 Syntax highlighted code block
