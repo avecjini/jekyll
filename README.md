@@ -69,9 +69,12 @@ Miles between the identified hotels and the Major Highway Ramps
 ### Prelimiary Analysis
 
 - Statistic by States
+
 ![]({{site.baseurl}}//table.png)
 
+
 - Dependent Variables
+
 ![]({{site.baseurl}}//Dvariable.png)
 
 
@@ -83,6 +86,7 @@ Miles between the identified hotels and the Major Highway Ramps
 - Correlation Diagram
 
 ![Corre.png]({{site.baseurl}}/Corre.png)
+
 
 
 ### Results
