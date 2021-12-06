@@ -58,12 +58,13 @@ Analytics Framework:
 ![]({{site.baseurl}}//analyframe.png)
 
 
-> Hotel Patterns
+- Hotel Patterns
 Ownership Status:the ownership status of the hotel or motel (privately owned, part of a chain, a franchise)
 Star Rating of the Hotels
 
-> Highway Patterns 
+- Highway Patterns 
 Miles between the identified hotels and the Major Highway Ramps
+
 
 ### Prelimiary Analysis
 
