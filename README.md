@@ -64,20 +64,17 @@ With this new way of finding customers, a hotel became a convenient transient lo
 
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
 
-### Resources
+
+https://public.tableau.com/shared/98K4P3F8F?:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:language=zh-TW&:display_count=n&:origin=viz_share_link
+
+
+[interactive map](https://public.tableau.com/shared/SMQ93Q64Y?:display_count=n&:origin=viz_share_link)
+
+https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:language=zh-TW&:display_count=n&:origin=viz_share_link
+
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
