@@ -18,6 +18,13 @@ With the growth of the internet, traffickers use online advertisements, such as 
 3. According to the cases, over 84% of the cases that traffickers used online platforms to market the victims and to arrange sex trade with their customers.
 With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
+Geographical Distribution of Identified Hotels in Sex Trafficking Cases
+![hotelmap.png]({{site.baseurl}}//hotelmap.png)
+
+
+Number of the Identified Hotels with the Corresponding Star Ratings
+%%% StarHotel image
+
 
 ### Research Questions
 How could we identify sex trafficking crimes and prevent them effectively in the academic field of Social and Connected & Community (S&CC)?
@@ -43,28 +50,50 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 1. Identified hotel from Federal Civil Case (PACER)
 2. Facility Dataset from Hotel.com and Google APIs
 3. Demographics & Socio-economic characteristics from U.S. Census and NUMBEO.com (Crime Index)
+4. U.S. Primary & Secondary Roads from U.S. Census
 
 ![ERD]({{site.baseurl}}//Entity%20Relationship%20Diagram.jpg)
 
-### Research Methods
-- Spatial Autocorrelation Analysis
-  : Global Spatial Autocorrelation: Makes possible statements about the degree of clustering in the dataset
-- Point Pattern Analysis: Focuses on deviations from the global trend at much more focused levels than the entire maps
-  : Concerned with the visualization, description, statistical characterization, and modeling of point patterns, trying to understand the generating process that gives rise and explains the observed data
-   1. What does the pattern look like?
-   2. What is the nature of the distribution of points?
-   3. Is there any structure in the way locations are arranged over space? That is, are events clustered? or are they dispersed?
-   4. Why do events occur in those places and not in others?
+### Method
+Analytics Framework: 
+%%% analyframe image
 
-![mIndex.png]({{site.baseurl}}/mIndex.png)
+> Hotel Patterns
+Ownership Status the ownership status of the hotel or motel (privately owned, part of a chain, a franchise)
+Star Rating of the Hotels
 
+> Highway Patterns 
+Miles between the identified hotels and the Major Highway Ramps
+
+### Prelimiary Analysis
+
+Statistic by States
+%%% table image
+
+Dependent Variables
+%%% DVariable image
+
+Control Variables
+%%% ConVariable
+
+Correlation Diagram
+%%% Correlation image
 
 ### Results
-
-![hotelmap.png]({{site.baseurl}}//hotelmap.png)
-
 
 
 {% include viz1.html %}
 
 {% include viz2.html %}
+
+
+### Future Work
+Spatial Autocorrelation Analysis
+
+- [Global Spatial Autocorrelation](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html):Makes possible statements about the degree of clustering in the dataset
+
+- [Local Spatial Autocorrelation](https://geographicdata.science/book/notebooks/07_local_autocorrelation.html?fbclid=IwAR26zjrUFassWu4N6qeIHpbisp1OsRvboh_KQhSrtK_8Jlz-iOVSbsSi5Mg):Focuses on deviations from the global trend at much more focused levels than the entire maps
+
+%% moran I
+
+The possible output is choropleth maps and maron plot, which is computed by Moran’s family Index and the other two indexes, which will also be compared.
