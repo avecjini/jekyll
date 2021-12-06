@@ -76,7 +76,8 @@ Dependent Variables
 
 
 Control Variables
-%%% ConVariable
+![ConVariable.png]({{site.baseurl}}/ConVariable.png)
+
 
 Correlation Diagram
 %%% Correlation image
