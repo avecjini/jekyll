@@ -22,8 +22,7 @@ Geographical Distribution of Identified Hotels in Sex Trafficking Cases
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
 
 Number of the Identified Hotels with the Corresponding Star Ratings
-
-
+![StarH.png]({{site.baseurl}}//StarH.png)
 
 ### Research Questions
 How could we identify sex trafficking crimes and prevent them effectively in the academic field of Social and Connected & Community (S&CC)?
