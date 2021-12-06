@@ -22,7 +22,7 @@ Geographical Distribution of Identified Hotels in Sex Trafficking Cases
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
 
 Number of the Identified Hotels with the Corresponding Star Ratings
-![]({{site.baseurl}}/StarHotel.png)
+
 
 
 ### Research Questions
