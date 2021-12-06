@@ -16,14 +16,14 @@ With the growth of the internet, traffickers use online advertisements, such as 
 3. According to the cases, over 84% of the cases that traffickers used online platforms to market the victims and to arrange sex trade with their customers.
 With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
+![htmap.png]({{site.baseurl}}/htmap.png)
+
 ### Research Questions
 1. How do we find the relationship between the patterns of geographic and social boundaries of this crime automatically based on demographic and socio-economic characteristics?
 
 2. What are the significant patterns that we can use to predict and verify the boundaries we have?
 
 ### Problem Description
-
-![htmap.png]({{site.baseurl}}/htmap.png)
 
 
 - <strong>Sex trafficking is spatially concentrated within the urban environment</strong>
@@ -60,7 +60,7 @@ With this new way of finding customers, a hotel became a convenient transient lo
 ![workflow.png]({{site.baseurl}}//workflow.png){:height="300" width="1400"}
 
 
-### Finding
+### Results
 
 ![hotelmap.png]({{site.baseurl}}//hotelmap.png)
 
@@ -72,7 +72,6 @@ https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:
 
 [interactive map](https://public.tableau.com/shared/SMQ93Q64Y?:display_count=n&:origin=viz_share_link)
 
-https://public.tableau.com/views/practice_16386973293770/MapofHotelsandHighway?:language=zh-TW&:display_count=n&:origin=viz_share_link
 
 
 ```markdown
