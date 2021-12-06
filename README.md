@@ -19,7 +19,7 @@ With the growth of the internet, traffickers use online advertisements, such as 
 With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
 Geographical Distribution of Identified Hotels in Sex Trafficking Cases
-![hotelmap.png]({{site.baseurl}}//hotelmap.png){:height="55" width="35"}
+![hotelmap.png]({{site.baseurl}}//hotelmap.png){:height="350" width="150"}
 
 Number of the Identified Hotels with the Corresponding Star Ratings
 %%% StarHotel image
