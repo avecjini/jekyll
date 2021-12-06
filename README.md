@@ -80,8 +80,8 @@ Control Variables
 
 
 Correlation Diagram
+![Corre.png]({{site.baseurl}}/Corre.png)
 
-%%% Correlation image
 
 ### Results
 
