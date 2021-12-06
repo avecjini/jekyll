@@ -19,7 +19,7 @@ With the growth of the internet, traffickers use online advertisements, such as 
 With this new way of finding customers, a hotel became a convenient transient locale for the sex trade as customers can meet the victims of sex trafficking often after arranging the appointment online. Therefore, hotels/motels become the hotspots in this kind of illicit supply chain.
 
 
-> ### Research Questions
+### > Research Questions
 How could we identify sex trafficking crimes and prevent them effectively in the academic field of Social and Connected & Community (S&CC)?
 
 
@@ -44,7 +44,7 @@ How could we identify sex trafficking crimes and prevent them effectively in the
 2. Facility Dataset from Hotel.com and Google APIs
 3. Demographics & Socio-economic characteristics from U.S. Census and NUMBEO.com (Crime Index)
 
-![ERD.png]({{site.baseurl}}/ERD.png)
+![]({{site.baseurl}}//Entity%20Relationship%20Diagram.jpg)
 
 ### Research Methods
 - Spatial Autocorrelation Analysis
